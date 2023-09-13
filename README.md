@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 I'm a passionate computer science student with a knack for creativity. Currently pursuing a degree in Computer Engineering, I'm on a journey to harness the power of technology and innovation. 
 
 My heart lies in the world of **Frontend Development**, where I weave my design and coding skills to craft beautiful and user-friendly interfaces. I'm also an avid explorer of the exciting realm of **Game Development**, constantly seeking new ways to bring interactive experiences to life.
-
+	
 <p align="center">
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="unity"></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="unity"></a>
   <a><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"></a>
 </p>
 	
