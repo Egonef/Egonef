@@ -40,7 +40,7 @@ I also have developed many more skills as I've been progressing through my cours
 Beyond code, I'm really keen on **total customization (ricing)**, especially on my Linux setup. I enjoy tweaking every pixel and configuration to create a personalized digital environment that's uniquely mine.
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="my banner"></a>
+  <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
 </p>
 
 I thrive on learning new languages and development techniques, always eager to expand my knowledge and skill set. If you're looking for a versatile, creative, and forward-thinking collaborator, I'd love to connect!
