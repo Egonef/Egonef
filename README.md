@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Egonef](https://github.com/Egonef/Egonef/assets/126122650/2ea6393a-5d3e-4360-ae04-07765e44fdbb)
-
+<img src=”https://github.com/Egonef/Egonef/assets/126122650/2ea6393a-5d3e-4360-ae04-07765e44fdbb" alt=”my banner”>
