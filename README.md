@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a><img src="https://github.com/Egonef/Egonef/assets/126122650/2ea6393a-5d3e-4360-ae04-07765e44fdbb" alt="my banner"></a>
+  <a><img src="https://github.com/Egonef/Egonef/assets/126122650/dd4f4f59-6f3e-43c2-8841-b0b610a40b90" alt="my banner"></a>
 </p>
