@@ -24,6 +24,10 @@ I'm a passionate computer science student with a knack for creativity. Currently
 
 My heart lies in the world of **Frontend Development**, where I weave my design and coding skills to craft beautiful and user-friendly interfaces. I'm also an avid explorer of the exciting realm of **Game Development**, constantly seeking new ways to bring interactive experiences to life.
 
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"></a>
+</p>
+	
 Beyond code, I'm known for my love of **total customization (ricing)**, especially on my Linux setup. I enjoy tweaking every pixel and configuration to create a personalized digital environment that's uniquely mine.
 
 I thrive on learning new languages and development techniques, always eager to expand my knowledge and skill set. If you're looking for a versatile, creative, and forward-thinking collaborator, I'd love to connect!
