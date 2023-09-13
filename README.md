@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://www.canva.com/design/DAFuUs3Ylek/O2RBDo0c69CyVFQ_zUglWg/view?utm_content=DAFuUs3Ylek&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Egonef](https://github.com/Egonef/Egonef/assets/126122650/2ea6393a-5d3e-4360-ae04-07765e44fdbb)
+
